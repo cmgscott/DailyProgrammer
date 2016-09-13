@@ -63,15 +63,8 @@ public class Easy254 {
 				}
 			}
 		});
-		
 
 		frame.setVisible(true);
-
-		
-
-		//System.out.println(output);
-		//"gsrh rh zm vcznkov lu gsv zgyzhs xrksvi"
-
 
 	}
 	
